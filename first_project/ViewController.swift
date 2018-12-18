@@ -15,9 +15,6 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        myLabel.text = "This is an instance of a UILabel."
-
     }
 
     @IBAction func changeColor(sender: UIButton) {
